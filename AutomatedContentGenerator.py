@@ -672,7 +672,7 @@ class AutomatedContentGenerator:
 
 # %%
 # Load the model
-acg = AutomatedContentGenerator(api_key='AIzaSyCIGuLmSrM65sXknalTE4B4x8PsCZpAZ-I', cx='d4c72f123415549d9', query='[news] gpt4 usecase in 2023', num_results=3, openai_api_key='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')
+acg = AutomatedContentGenerator(api_key='-', cx='-', query='[news] gpt4 usecase in 2023', num_results=3, openai_api_key='-')
 
 
 # %%
