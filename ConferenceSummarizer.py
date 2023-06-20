@@ -87,7 +87,7 @@ class ConferenceSummarizer:
 
 # %%
 # Load the model
-summarizer = ConferenceSummarizer(api_key='AIzaSyCIGuLmSrM65sXknalTE4B4x8PsCZpAZ-I', cx='d4c72f123415549d9', query='fomc conference 2023', num_results=5, openai_api_key='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')
+summarizer = ConferenceSummarizer(api_key='-', cx='-', query='fomc conference 2023', num_results=3, openai_api_key='-')
 
 # %%
 # Step 1: Download the audio from a YouTube video
